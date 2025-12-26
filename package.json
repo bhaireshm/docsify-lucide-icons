@@ -1,5 +1,5 @@
 {
-  "name": "docsify-lucide",
+  "name": "@bhaireshm/docsify-lucide",
   "version": "1.0.0",
   "description": "A simple, clean Docsify plugin to embed [Lucide icons](https://lucide.dev/) directly in your Markdown files using a JSX-like syntax.",
   "main": "docsify-lucide.js",
