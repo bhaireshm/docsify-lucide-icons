@@ -1,4 +1,4 @@
-# docsify-lucide
+# docsify-lucide-icons
 
 A simple, clean Docsify plugin to embed [Lucide icons](https://lucide.dev/) directly in your Markdown files using a JSX-like syntax.
 
@@ -15,7 +15,7 @@ A simple, clean Docsify plugin to embed [Lucide icons](https://lucide.dev/) dire
 
 ```html
 <script src="https://unpkg.com/lucide@latest"></script>
-<script src="https://cdn.jsdelivr.net/gh/bhaireshm/docsify-lucide@master/docsify-lucide.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/bhaireshm/docsify-lucide-icons@master/docsify-lucide.min.js"></script>
 ```
 
 ## Usage
